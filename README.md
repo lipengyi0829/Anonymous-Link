@@ -23,6 +23,7 @@ Figure 4. Visualisation of the similarity between frames using the uniform sampl
 #
 
 ![alt text](image/image-5.png)
+
 Figure 5. Qualitative example: In part (a) shows the difference in sampling between Uniform Sampling and MaxInfo, and visualise the information we sampled, which we were able to select to Ground True or with a high degree of similarity frames. In part (b) shows the "CLIP score between options and frame information" in our MaxInfo sample, showing that MaxInfo's approach is to cover all answers in one sample.
 
 #
