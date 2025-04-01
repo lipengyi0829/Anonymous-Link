@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Figure 1. CLIP scores between questions and video frame information.
 
 ![alt text](image/image-1.png)
